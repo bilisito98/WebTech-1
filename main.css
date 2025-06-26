@@ -1,0 +1,44 @@
+.header_nav{
+    margin-top: auto;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.letters1{
+    font-size: 3em;
+}
+
+.container{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+.imagen{
+    width: 300px;
+    margin-right: 20px;
+}
+.parrafo {
+    width: 450px;
+    max-width: 60%;
+    margin: 0 auto;
+    font-family: sans-serif;
+    float: right;
+    left: 0;
+    text-align: left;
+
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
